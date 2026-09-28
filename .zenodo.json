@@ -1,0 +1,42 @@
+{
+  "title": "Finite but Boundaryless",
+  "description": "A WRRA hybrid expansion and accumulated twist cosmology with hidden gravitational state",
+  "creators": [
+    {
+      "name": "Choi, Wonsik",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "WRRA",
+    "finite boundaryless universe",
+    "cosmic topology",
+    "holonomy",
+    "twist stress",
+    "hybrid expansion twist cosmology",
+    "accumulated spatial twist",
+    "dark matter phenotype",
+    "galactic warp"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22650956",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22700557",
+      "relation": "isNewVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23003875",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}

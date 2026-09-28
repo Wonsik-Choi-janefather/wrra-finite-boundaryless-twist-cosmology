@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work please cite the repository and related archived papers"
+title: "Finite but Boundaryless"
+type: article
+version: 1.0.0
+date-released: 2026-09-28
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    email: janefather@gmail.com
+url: "https://github.com/Wonsik-Choi-janefather/wrra-finite-boundaryless-twist-cosmology"
+abstract: "A WRRA hybrid expansion and accumulated twist cosmology connecting finite boundaryless closure, distributed twist, holonomy, hidden gravitational state, cosmological redshift, and galactic geometry."
+keywords:
+  - WRRA
+  - finite boundaryless universe
+  - cosmic topology
+  - holonomy
+  - twist stress
+  - cosmological redshift
+  - dark matter phenotype
+license: CC-BY-4.0
+references:
+  - type: article
+    title: "WRRA Core"
+    doi: "10.5281/zenodo.22650956"
+  - type: article
+    title: "Twist Stress Universe and the Mass Phenotype of Dark Matter"
+    doi: "10.5281/zenodo.22700557"
+  - type: article
+    title: "WRRA Spatial Twist Selection of Galactic Disk Planes and the Dark Mass Phenotype"
+    doi: "10.5281/zenodo.23003875"
